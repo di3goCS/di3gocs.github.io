@@ -2,8 +2,9 @@
   <div class="main-section">
       <img alt="Foto circular de Diego em primeiro plano. Diego é um homem negro e está usando uma camisa de gola U branca, está com cabelo raspado e sorrindo. Ao fundo há uma parede azul." src="./../assets/profile.jpg" class="profile"/>
       <div>
-        <p class="main-text"> Olá! Meu nome é <strong>Diego</strong>!</p>
-        <p> estudante de computação, desenvolvedor web e apaixonado por projetos de educação em computação.</p>
+        <p class="main-text"> Olá, meu nome é </p>
+        <p id="main-word"> Diego </p>
+        <p id="sub-text"> estudante de computação, desenvolvedor web e apaixonado por projetos de educação em computação.</p>
         <div class="info-box">
           <p> 💻 Estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana</p>
           <p> 👨🏾‍💻 Técnico em Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem Industrial</p>
@@ -109,8 +110,8 @@ export default {
     }
 
     .main-section {
-      padding: 0 2%;
       height: 100%;
+      padding: 0 12%;
     }
 
     .profile {
@@ -132,6 +133,10 @@ export default {
       background-color: var(--thirdy-color);
       color: var(--black-tone);
       font-weight: bold;
+    }
+
+    .info-box p {
+      margin-bottom: 8px;
     }
 
     .section-title {
@@ -159,16 +164,27 @@ export default {
 
     .main-text {
       font-weight: 300;
-      margin-bottom: 1%;
     }
 
     #main-word {
-      font-size: 2em;
+      font-size: 4em;
+    }
+
+    #sub-text {
+      margin: 16px 240px 32px;
     }
 
     @media (max-width: 768px) {
       .profile {
         width: 50%;
+      }
+
+      .main-section {
+        padding: 0 2%;
+      }
+
+      #sub-text {
+        margin: 16px 12px 32px;
       }
 
       .section-title {

@@ -1,9 +1,7 @@
 <template>
-  <div>
-    <div class="tech">
-        <i :class=techClass :title=techTitle aria-hidden="true"></i>
-        <p> {{ name }} </p>
-    </div>
+  <div class="tech">
+    <i :class=techClass :title=techTitle aria-hidden="true"></i>
+    <p> {{ name }} </p>
   </div>
 </template>
 
@@ -22,6 +20,11 @@ export default {
 <style scoped>
     i {
       font-size: 6em;
+    }
+
+    .tech {
+      display: block;
+      margin: 1% 4%;
     }
 
     .tech p {
