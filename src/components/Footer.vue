@@ -29,9 +29,9 @@
     </div>
     <div>
       <p> Feito com 💚 por Diego Silva </p>
-      <p> Ícones fornecidos por <a href="https://icon54.com/" title="Pixel perfect"> Pixel perfect, </a>
-						<a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> e
-						<a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a>, disponíveis em: <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+      <p> Ícones fornecidos por <a href="https://icon54.com/" title="Pixel perfect"> Pixel perfect</a>, 
+        <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> e
+        <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a>.
       </p>
     </div>
   </div>
@@ -66,5 +66,11 @@ export default {
     flex-direction: row;
     justify-content:space-around;
     margin-top: 8px;
+  }
+
+  a {
+    background-color: var(--thirdy-color);
+    text-decoration: none;
+    font-weight: bold;
   }
 </style>
