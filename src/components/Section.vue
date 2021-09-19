@@ -4,7 +4,7 @@
       <div>
         <p class="main-text"> Olá, meu nome é </p>
         <p id="main-word"> Diego </p>
-        <p id="sub-text"> estudante de computação, desenvolvedor web e apaixonado por projetos de educação em computação.</p>
+        <p id="sub-text"> estudante de computação, desenvolvedor de software e apaixonado por projetos de educação em computação.</p>
         <div class="info-box">
           <p> 💻 Estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana</p>
           <p> 👨🏾‍💻 Técnico em Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem Industrial</p>
