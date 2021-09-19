@@ -28,7 +28,7 @@ jobs:
           CI: true
 
       - name: Generate build
-        run: npm run generate
+        run: npm run build
         env:
           CI: true
 
