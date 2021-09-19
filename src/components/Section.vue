@@ -9,7 +9,7 @@
           <p> 💻 Estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana</p>
           <p> 👨🏾‍💻 Técnico em Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem Industrial</p>
           <p> 👨🏾‍🏫 Bolsista do <a href="http://petengsuefs.net" target="_blank">PET Engenharias UEFS</a></p>
-          <p> 💼 Diretor Presidente e Desenvolvedor Fullstack da <a href="https://www.ecompjr.com.br" target="_blank">EcompJr</a></p>
+          <p> 💼 Diretor Presidente e Desenvolvedor Fullstack na <a href="https://www.ecompjr.com.br" target="_blank">EcompJr</a></p>
           <p> 📚 Extensionista Voluntário do <a href="https://www.researchgate.net/lab/LESS-Laboratory-for-Education-Software-and-Systems-Roberto-Bittencourt" target="_blank">Laboratório de Educação, Software e Sistemas</a></p>
           <p> 🔎 Acessa meu <a href="https://drive.google.com/file/d/17PE98mEPjmDYPZVAPjNnAt-A0VQ94cWz/view?usp=sharing" target="_blank">Curriculum Vitae</a> ou meu <a href="http://lattes.cnpq.br/7691484795936785" target="_blank">Curriculum Lattes</a> pra ver tudo direitinho! </p>
         </div>
