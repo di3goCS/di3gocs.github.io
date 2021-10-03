@@ -29,9 +29,9 @@ export default {
 * {
 	margin: 0px;
 	padding: 0px;
-	--primary-color: #ddfff8;
+	--primary-color: #ebfffb;
 	--secondary-color:#00b894;
-  --thirdy-color: #8dfae4;
+  --thirdy-color: #85ffe7;
 	--black-tone: #101110;
 }
 
