@@ -8,10 +8,10 @@
         <div class="info-box">
           <p> 💻 Estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana</p>
           <p> 👨🏾‍💻 Técnico em Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem Industrial</p>
-          <p> 👨🏾‍🏫 Bolsista do <a rel="noopener noreferrer" href="http://petengsuefs.net" target="_blank">PET Engenharias UEFS</a></p>
+          <p> 👨🏾‍🏫 Bolsista do <a rel="noopener noreferrer" href="https://sites.google.com/view/petengsuefs/p%C3%A1gina-inicial" target="_blank">PET Engenharias UEFS</a></p>
           <p> 💼 Diretor Presidente e Desenvolvedor Fullstack na <a rel="noopener noreferrer" href="https://www.ecompjr.com.br" target="_blank">EcompJr</a></p>
           <p> 📚 Extensionista Voluntário do <a rel="noopener noreferrer" href="https://www.researchgate.net/lab/LESS-Laboratory-for-Education-Software-and-Systems-Roberto-Bittencourt" target="_blank">Laboratório de Educação, Software e Sistemas</a></p>
-          <p> 🔎 Acessa meu <a rel="noopener noreferrer" href="https://drive.google.com/file/d/1_QT2XwAeEz_vTSC0VFuZhIyrWLeJte8V/view?usp=sharing" target="_blank">Curriculum Vitae</a> ou meu <a rel="noopener noreferrer" href="http://lattes.cnpq.br/7691484795936785" target="_blank">Curriculum Lattes</a> pra ver tudo direitinho! </p>
+          <p> 🔎 Acessa meu <a rel="noopener noreferrer" href="https://drive.google.com/file/d/1_QT2XwAeEz_vTSC0VFuZhIyrWLeJte8V/view?usp=sharing" target="_blank">Curriculum Vitae</a> ou meu <a rel="noopener noreferrer" href="https://lattes.cnpq.br/7691484795936785" target="_blank">Curriculum Lattes</a> pra ver tudo direitinho! </p>
         </div>
       </div>
       <h2 class="section-title"> Projetos </h2>
