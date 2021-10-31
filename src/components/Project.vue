@@ -4,7 +4,7 @@
     <div class="description w-padding simple-text"> {{projectDescription}} </div>
     <div class="project-url w-padding">
       <img src="./../assets/github.png" alt="Github icon">
-      <a target="_blank" :href=projectUrl> Confere no github! </a> 
+      <a rel="noopener noreferrer" target="_blank" :href=projectUrl> Confere no github! </a> 
     </div>
     <div  class="tag-deck">
       <Tag v-for="(item, index) in technologies" :key="index" :tagName="item" />
